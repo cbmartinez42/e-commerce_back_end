@@ -3,7 +3,7 @@
 This is an application to create a MySQL database for product information for e-commerce purposes. This application allows a user to view, modify and delete product, category and product tag info
 
   
-A [video walkthrough](https://www.youtube.com/watch?v=WiPHaSqfv38) is available
+A [video walkthrough](https://youtu.be/_PoDF5K7n2Q) is available
 
 ## Features
 * Utilizes Node.js with the Sequelize module to allow for functionality 
